@@ -1,0 +1,16 @@
+{
+  "name": "Night Fury — Ampere Magnus Neo EV Tracker",
+  "short_name": "Night Fury",
+  "description": "Installable Android PWA for Ampere Magnus Neo EV rides, 7-day rotating tire air cycles, 4,000 km rotating service alerts, issue logs, and JSON backup/restore.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a"
+}
